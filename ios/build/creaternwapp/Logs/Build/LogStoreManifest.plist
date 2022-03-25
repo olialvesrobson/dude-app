@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>813EF928-CA1C-4CE9-9A6E-CA19B68BD4D8</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>813EF928-CA1C-4CE9-9A6E-CA19B68BD4D8.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>creaternwapp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>creaternwapp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project creaternwapp with scheme creaternwapp and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>586447973.49563706</real>
+			<key>timeStoppedRecording</key>
+			<real>586447974.93603599</real>
+			<key>title</key>
+			<string>Building project creaternwapp with scheme creaternwapp and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>813EF928-CA1C-4CE9-9A6E-CA19B68BD4D8</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
